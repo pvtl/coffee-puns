@@ -14,7 +14,7 @@
 Customer: "Thanks...I guess it's back to the daily-__grind__ for me. Cheers Pablo."
 
 ### Latte/Beans (Combo-breaker)
-(Customer, halfway through the door)  
+(Customer, halfway out the door)  
 Customer: "It's __bean__ great talking with you, I'll see you __latte__!"
 
 ### Espresso
