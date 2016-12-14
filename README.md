@@ -47,7 +47,7 @@ Waiter: "Sighs with disappointment"
 
 ### Coffee Shot
 (Waiter tallying up customers order)  
-"Alright, that's $13.50 thanks."
-"Ummm, wasn't the coffee a small?"
-"I'm so sorry, yes. That's $11.75 please."
+"Alright, that's $13.50 thanks."  
+"Ummm, wasn't the coffee a small?"  
+"I'm so sorry, yes. That's $11.75 please."  
 "Yeah, that's the __shot__."
