@@ -17,3 +17,5 @@ Customer: "Thanks...I guess it's back to the daily-__grind__ for me. Cheers Pabl
 (Customer, halfway through the door)  
 Customer: "It's __bean__ great talking with you, I'll see you __latte__!"
 
+### Espresso
+"Coffee puns are a great way to __espresso__ your personality!"
