@@ -24,3 +24,9 @@ Customer: "It's __bean__ great talking with you, I'll see you __latte__!"
 (Waiter hands coffee to customer): "That'll be $5 thanks."  
 Customer: "Oh no! __Affogato__ my wallet!"  
 Waiter: "Sighs with disappointment"
+
+
+### Coffee Mugs
+"Did you hear what happened yesterday?"  
+"No, what?"  
+"We got __mugged__, someone stole our coffees!"
