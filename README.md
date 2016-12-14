@@ -21,6 +21,6 @@ Customer: "It's __bean__ great talking with you, I'll see you __latte__!"
 "Coffee puns are a great way to __espresso__ your personality!"
 
 ### Affogato
-(Waiter hands coffee to customer): "That'll be $5 thanks."
-Customer: "Oh no! __Affogato__ my wallet!"
+(Waiter hands coffee to customer): "That'll be $5 thanks."  
+Customer: "Oh no! __Affogato__ my wallet!"  
 Waiter: "Sighs with disappointment"
