@@ -38,3 +38,9 @@ Waiter: "Sighs with disappointment"
 (Customer handing over credit card to waiter)  
 "Is Paywave ok, or would you prefer pin?"  
 "Hmm let me think...this topic can make for a __heated__ and __strong__ debate."
+
+### Tamper
+(Customer looking through cake cabinet)
+"Hey mate, how fresh are these cakes?"  
+"Ahh...I think we got 'em in yes-dy"  
+"You don't sound too sure, tell me the truth, you don't want me to lose my __tamper__..."
