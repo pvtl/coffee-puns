@@ -44,3 +44,10 @@ Waiter: "Sighs with disappointment"
 "Hey mate, how fresh are these cakes?"  
 "Ahh...I think we got 'em in yes-dy"  
 "You don't sound too sure, tell me the truth, you don't want me to lose my __tamper__..."
+
+### Coffee Shot
+(Waiter tallying up customers order)  
+"Alright, that's $13.50 thanks."
+"Ummm, wasn't the coffee a small?"
+"I'm so sorry, yes. That's $11.75 please."
+"Yeah, that's the __shot__."
