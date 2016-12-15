@@ -36,7 +36,8 @@ Waiter: "Sighs with disappointment"
 "We got __mugged__, someone stole our coffees!"
 
 ### Coffee Percolator
-"Working at Pivotal has so many __perks__."
+(Customer to junior waiter)  
+"Man you have a great job. There'd just be soo many __perks__ of working here."
 
 ### Hot and Strong Coffee
 (Customer handing over credit card to waiter)  
@@ -55,3 +56,6 @@ Waiter: "Sighs with disappointment"
 "Ummm, wasn't the coffee a small?"  
 "I'm so sorry, yes. That's $11.75 please."  
 "Yeah...that's the __shot__."
+
+### Brew
+"How's that weather outside? Looks to be __brew__'in a __strong__ storm..."
