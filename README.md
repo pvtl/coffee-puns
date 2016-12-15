@@ -1,4 +1,8 @@
-# Pivotal Coffee Puns
+# Coffee Shop Coffee Puns
+
+At Pivotal, we love a good [pun](https://en.wikipedia.org/wiki/Pun). It's our challenge to throw as many coffee-related puns at our local coffee shop owner. Here's our collection.
+
+---
 
 ### Piccolo
 "Please can I have you finest caramel slice."  
@@ -40,14 +44,14 @@ Waiter: "Sighs with disappointment"
 "Hmm let me think...this topic can make for a __heated__ and __strong__ debate."
 
 ### Tamper
-(Customer looking through cake cabinet)
-"Hey mate, how fresh are these cakes?"  
-"Ahh...I think we got 'em in yes-dy"  
-"You don't sound too sure, tell me the truth, you don't want me to lose my __tamper__..."
+(Customer looking through cake cabinet)  
+"You got any caramel slice left?"  
+"Nah mate, sorry brother..."  
+"You're really making me lose my __tamper__ here..."
 
 ### Coffee Shot
 (Waiter tallying up customers order)  
 "Alright, that's $13.50 thanks."  
 "Ummm, wasn't the coffee a small?"  
 "I'm so sorry, yes. That's $11.75 please."  
-"Yeah, that's the __shot__."
+"Yeah...that's the __shot__."
